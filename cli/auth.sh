@@ -5,5 +5,9 @@ configure(){
   local region=${region:-"cn-hongkong"}
   aliyun configure set --profile default --mode AK --access-key-id $key --access-key-secret $secret --region $region
 }
+sanCheck(){
+  aliyun sts GetCallerIdentity
+
+}
 "$@"
 
