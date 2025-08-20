@@ -1,4 +1,4 @@
-# AnalyticDB
+# AnalyticDB (Deprecated)
 
 ## AnalyticDB for MySQL
 known as **adb**
