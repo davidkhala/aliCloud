@@ -1,7 +1,7 @@
 [project]
-name = "py"
-version = "0.1.0"
-description = "Add your description here"
+name = "davidkhala.ali"
+version = "0.0.0"
+
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
