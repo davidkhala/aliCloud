@@ -9,3 +9,5 @@ https://modelstudio.alibabacloud.com/cli/install.md
 登陆: `bl auth login --console --console-site international`
 
 - Managed Agents 功能目前仅在 cn-beijing（中国站）可用，国际站尚未开放。（2026 Oct）
+## 大陆站
+登陆 `bl auth login --console --console-site domestic --config cn`
