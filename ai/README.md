@@ -1,4 +1,6 @@
 
+ACK 的 A2A Server 只能让“外部 Agent ↔ 外部 Agent”通信，不能把 Model Studio 的 Agent 暴露成 A2A endpoint。
+
 # 阿里云百炼 CLI
 
 
